@@ -9,7 +9,7 @@
   "dependencies": {
     "@salesforce-ux/design-system": "2.10.2",
     "blocksdk": "1.1.1",
-    "express": "4.17.1"
+    "express": "4.19.2"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
